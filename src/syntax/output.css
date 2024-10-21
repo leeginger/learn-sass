@@ -1,0 +1,20 @@
+body {
+  font-size: 1rem;
+  color: #121212;
+  background: #eaf455;
+}
+
+p {
+  line-height: 1.5;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+}
+ul li {
+  margin: 0.5rem;
+}
+
+/*# sourceMappingURL=output.css.map */

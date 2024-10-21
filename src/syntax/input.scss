@@ -1,0 +1,22 @@
+$base-color: #121212;
+$bg-color: #eaf455;
+
+body {
+  font-size: 1rem;
+  color: $base-color;
+  background: $bg-color;
+}
+
+p {
+  line-height: 1.5;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+ul {
+  list-style: none;
+
+  li {
+    margin: 0.5rem;
+  }
+}
